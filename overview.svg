@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+<title id="title">Luma 功能图解</title><desc id="desc">打开视频：拖放 / 快捷键 / 路径：自动适配画面比例；舒适观看：主副字幕独立调节：HDR 自动适配；下次继续：记住进度与字幕选择：恢复位置并暂停。功能示意，非界面截图。</desc>
+<rect width="1200" height="520" rx="24" fill="#0f172a"/>
+<circle cx="1120" cy="30" r="180" fill="#818cf8" opacity=".08"/>
+<g font-family="'Segoe UI','Microsoft YaHei','Noto Sans CJK SC',sans-serif">
+<rect x="48" y="40" width="5" height="82" rx="2" fill="#818cf8"/>
+<text x="76" y="76" font-size="38" font-weight="700" fill="#f8fafc">Luma</text>
+<text x="76" y="116" font-size="22" fill="#cbd5e1">双字幕看视频，接着上次的位置继续</text>
+<text x="48" y="170" font-size="18" fill="#818cf8">Windows 本地播放 · 双字幕 · HDR 色调映射</text>
+<rect x="48" y="210" width="352" height="220" rx="16" fill="#1e293b" stroke="#334155"/>
+<circle cx="90" cy="254" r="20" fill="#818cf8" opacity=".18"/><text x="90" y="261" text-anchor="middle" font-size="19" font-weight="700" fill="#818cf8">1</text>
+<text x="74" y="310" font-size="28" font-weight="600" fill="#f1f5f9">打开视频</text>
+<text x="74" y="354" font-size="20" fill="#cbd5e1">拖放 / 快捷键 / 路径</text>
+<text x="74" y="390" font-size="18" fill="#94a3b8">自动适配画面比例</text><path d="M405 320h14m-5-5 5 5-5 5" fill="none" stroke="#818cf8" stroke-width="2"/><rect x="424" y="210" width="352" height="220" rx="16" fill="#1e293b" stroke="#334155"/>
+<circle cx="466" cy="254" r="20" fill="#818cf8" opacity=".18"/><text x="466" y="261" text-anchor="middle" font-size="19" font-weight="700" fill="#818cf8">2</text>
+<text x="450" y="310" font-size="28" font-weight="600" fill="#f1f5f9">舒适观看</text>
+<text x="450" y="354" font-size="20" fill="#cbd5e1">主副字幕独立调节</text>
+<text x="450" y="390" font-size="18" fill="#94a3b8">HDR 自动适配</text><path d="M781 320h14m-5-5 5 5-5 5" fill="none" stroke="#818cf8" stroke-width="2"/><rect x="800" y="210" width="352" height="220" rx="16" fill="#1e293b" stroke="#334155"/>
+<circle cx="842" cy="254" r="20" fill="#818cf8" opacity=".18"/><text x="842" y="261" text-anchor="middle" font-size="19" font-weight="700" fill="#818cf8">3</text>
+<text x="826" y="310" font-size="28" font-weight="600" fill="#f1f5f9">下次继续</text>
+<text x="826" y="354" font-size="20" fill="#cbd5e1">记住进度与字幕选择</text>
+<text x="826" y="390" font-size="18" fill="#94a3b8">恢复位置并暂停</text>
+<text x="48" y="477" font-size="16" fill="#94a3b8">功能流程示意 · 非应用界面截图</text></g></svg>
+

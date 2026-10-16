@@ -1,5 +1,31 @@
 # Luma
 
+**双字幕看视频，接着上次的位置继续。**
+
+Windows 本地播放 · 双字幕 · HDR 色调映射。
+
+[下载 Windows 版本](https://github.com/lyboxly-Matrix/Luma/releases) · [亮点](#项目亮点) · [快速上手](#快速上手) · [使用与开发](#使用与开发) · [反馈问题](https://github.com/lyboxly-Matrix/Luma/issues)
+
+![Luma 功能流程：打开视频 → 舒适观看 → 下次继续](overview.svg)
+
+> 图中为功能流程示意，并非应用界面截图。
+
+## 项目亮点
+
+| 亮点 | 能帮你做什么 |
+| --- | --- |
+| **双字幕对照** | 主、副字幕分别调整位置和字号，适合对照观看与语言学习。 |
+| **适应屏幕的色彩输出** | 通过 mpv 处理 HDR；SDR 屏幕可使用 BT.2390 色调映射。 |
+| **记住观看习惯** | 记录视频进度、字幕选择、音量和外观，下次打开恢复到上次位置并暂停。 |
+
+## 快速上手
+
+从 Releases 下载并解压运行包 → 放到可写目录 → 双击 `Luma.exe` → 拖入视频。
+
+适用于 Windows 10/11 x64，使用系统 .NET Framework 4.x。首次启动会在同目录释放 `.luma-runtime` 内核缓存。
+
+## 使用与开发
+
 Windows 本地视频播放器，使用 C# WinForms 和 mpv，支持双字幕、HDR 色调映射与播放进度恢复。
 
 ## 使用
@@ -54,3 +80,4 @@ mpv Windows 构建：20261015，commit `492bae0768`。归档 SHA-256：
 ```text
 f9becefe40e2a29d2ce5f3ab231ff094f9cf3e4038ff014cfe4a0c09ad90e79e
 ```
+
