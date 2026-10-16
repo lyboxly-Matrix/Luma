@@ -1,0 +1,16 @@
+# Local settings and viewing history
+luma-settings.json*
+# Embedded playback engine cache
+.luma-runtime/
+# Build outputs and downloads
+源码/build/
+*.exe
+*.dll
+*.7z
+*.zip
+# Diagnostics and preview artifacts
+*.log
+*-preview.png
+preview.png
+fullscreen-controls.png
+*验证*.json
